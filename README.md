@@ -249,6 +249,3 @@ Based on the RFM segmentation results, we would recommend the **Marketing & CRM 
 
 ✔️ **Capture Unidentified Customers** — A subset of transactions lack `CustomerID`, making them untrackable for retention. Incentivizing account registration (e.g., discount on first login) would improve coverage over time.
 
-- 👤 Tên của bạn thay `[Your Name]`
-- 📸 Chèn screenshot từ các ô visualization trong notebook (pie charts, bar charts, heatmap)
-- 📊 Điền số liệu cụ thể vào phần Observations sau khi chạy lại notebook
